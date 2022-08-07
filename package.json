@@ -1,0 +1,14 @@
+{
+    "name": "theme_package",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "react": "^18.2.0"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app"
+      ]
+    }
+  }
+  
